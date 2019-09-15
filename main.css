@@ -1,0 +1,26 @@
+.card{
+    width: 300px;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.greenBorder{
+    border: 5px solid green;
+}
+
+.peachBackground{
+    background-color: peachpuff;
+}
+
+.redText{
+    color: red;
+}
+
+.hide{
+    display: none;
+}
+
+#testDiv{
+    width: 500px;
+    height: 300px;
+}
